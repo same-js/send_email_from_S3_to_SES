@@ -1,0 +1,22 @@
+{
+  "name": "send_email_from_s3_to_ses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/same-js/send_email_from_S3_to_SES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/same-js/send_email_from_S3_to_SES/issues"
+  },
+  "homepage": "https://github.com/same-js/send_email_from_S3_to_SES#readme",
+  "dependencies": {
+    "serverless": "^2.15.0"
+  }
+}
