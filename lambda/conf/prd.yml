@@ -1,0 +1,6 @@
+Other_File:
+  REGION: 	ap-northeast-1
+  MAX_THREADS: 10
+  ENV: prd
+  FROM_ADDRESS: prd-no-reply@exmaple.com
+  FROM_ADDRESS_NAME: "サンプル運営担当（本番環境）"
